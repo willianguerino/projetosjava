@@ -1,4 +1,4 @@
-package br.com.alura.mvc.repository;
+package br.com.alura.mvc.mudi.repository;
 
 import java.util.List;
 
