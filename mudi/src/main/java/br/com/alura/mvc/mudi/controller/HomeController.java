@@ -8,7 +8,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
 import br.com.alura.mvc.mudi.model.Pedido;
-import br.com.alura.mvc.repository.PedidoRepository;
+import br.com.alura.mvc.mudi.repository.PedidoRepository;
 
 @Controller
 public class HomeController {
